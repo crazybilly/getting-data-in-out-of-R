@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1572573405241.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "FF1E78D",
+    "lastKnownWriteTime" : 2858620255344,
+    "last_content_update" : 1572573405241,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "context" : "package:muadc:::read.tidy"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_code_browser"
+}

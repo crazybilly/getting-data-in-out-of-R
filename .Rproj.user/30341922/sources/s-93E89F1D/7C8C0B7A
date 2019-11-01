@@ -1,0 +1,27 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1572572052944.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2421410635",
+    "id" : "7C8C0B7A",
+    "lastKnownWriteTime" : 1572573885,
+    "last_content_update" : 1572573885423,
+    "path" : "D:/Dropbox/Plug Into Data Science - Getting Data Into R/R code examples.R",
+    "project_path" : "R code examples.R",
+    "properties" : {
+        "cursorPosition" : "16,13",
+        "marks" : "<:21,22\n>:21,31",
+        "scrollLine" : "4",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
